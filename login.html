@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css" 
+      rel="stylesheet">
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    
+    }
+    
+    body h3{
+        text-align: center;
+        font-size: 2.5em;
+        border: 0.1em solid #f1f1f1;
+       
+    padding: 0.4em 0;
+    }    
+    
+    
+form { 
+       border: 0.1em solid #f1f1f1;
+       
+      }
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.ion-android-contact{
+        font-size: 8em;
+        color: #4CAF50;
+        opacity: 0.5;
+    }
+.ion-android-contact:hover{
+        opacity: 1;
+    }
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 1.5em;
+    font-size: 1em;
+
+
+}
+
+button:hover {
+    opacity: 0.6;
+    border-radius: 1.5em;
+    }
+
+
+
+.imgcontainer {
+    text-align: center;
+    margin: 20px 0 12px 0;
+}
+
+
+.container {
+    padding: 16px;
+    width: auto;
+}
+
+.signup {
+    width: auto;
+    padding: 10px 18px;
+    background-color: mediumslateblue;
+    opacity: 0.9;
+}
+    .signup a{
+     color: white;
+     text-decoration: none;
+        
+
+    }
+    .forgot{
+         width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+     float:right;
+    opacity: 0.9; 
+    clear: both;    
+
+   } 
+    .forgot a{
+      color: white;
+     text-decoration: none;
+    }
+    
+    
+
+</style>
+</head>
+<body>
+    <h3>RoadSide Assistant </h3>
+<form action="/action_page.php">
+  <div class="imgcontainer">
+      <i  class="ion-android-contact"></i>
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Email ID</b></label>
+    <input type="text" placeholder="Enter Email ID" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+        
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1;background-size: cover;">
+    <button type="button" class="signup"><a href="signup.html">Don't have an account</a></button>
+    <button type="button" class="forgot"><a href="#"> Forgot Password</a></button>
+  </div>
+</form>
+
+</body>
+</html>
