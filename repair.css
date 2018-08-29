@@ -1,0 +1,50 @@
+
+.background{
+   background: linear-gradient(90deg,rgba(0,0,0,0.1),rgba(0,0,0,0.5)),url(image/repair1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    padding: 2em 0;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.background h1{
+     font-size: 2em;
+    color:#ffffff;
+    font-weight: 900;
+    margin: 2 auto ;
+    padding: 1em;
+    
+}
+
+.background h4{
+    color:#ffffff;
+    font-weight: 900;
+    margin: 1 auto ;
+    padding-bottom: 1em;
+    
+}
+ .design li,a{
+        text-decoration: none;
+        list-style: none;
+        color: gainsboro;
+        transition:  all 0.3s ease-in;
+        
+        
+    }
+    .design li,a:hover{
+        color: darkorange;
+        font-size: 1.02em;
+    }
+    .design1 a {
+        background-color:transparent;
+
+    }
+    .navbar-brand:hover{
+        font-size: 1.27em;
+        
+        
+    }
+
