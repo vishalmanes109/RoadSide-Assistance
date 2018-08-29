@@ -239,7 +239,7 @@ body a:hover {
 /* content */
 
 body {
-    background: linear-gradient(0deg,rgba(0,0,0,0.1),rgba(0,0,0,0.8)) ,url(../images/car.jpg) no-repeat center;
+    background: linear-gradient(0deg,rgba(0,0,0,0.1),rgba(0,0,0,0.8)) ,url(../image/home.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -310,7 +310,6 @@ a {
     min-height: 725px;
     position: relative;
      background-size: cover;
-    background: url(../images/banner1.jpg) no-repeat center bottom;
     background-image: contain;
     box-shadow: 0 12px 15px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19);
 }
