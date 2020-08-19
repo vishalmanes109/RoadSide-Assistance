@@ -19,13 +19,3 @@ Built With
 Atom and Bracket 
 Browsers(Chrome,Safari,Firefox)
 
-
-Authors
-Vishal Mane
-Jenis Lawrence
-Neil Gonsalvies
-
-
-License
-This is an open Source project 
-
