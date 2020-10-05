@@ -31,7 +31,8 @@ RoadSide Assistant helps you to find nearest Mechanics, Petrol Pump on ONE CLICK
 
 ### Built With
 * Bracket 
-* Browsers(Chrome,Safari,Firefox)
+* Git
+* Browser
 
 ### Authors
 * Vishal Mane
