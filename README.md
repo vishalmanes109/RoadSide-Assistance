@@ -1,6 +1,6 @@
-#RoadSide-Assistance 
+# RoadSide-Assistance FInder
 
-
+### Introduction
 RoadSide Assistance Finder  is a Website which helps to find the nearby Gas-Station and Mechanics as per User's Location.
 Technology used are HTML5,CSS3,Bootstrap,JavaScript,PHP,MySQL, Google Map API.
 
@@ -9,8 +9,10 @@ RoadSide Assistant helps you to find nearest Mechanics, Petrol Pump on ONE CLICK
 <img src='./image/roadsidehome.png' >
 
 ### Get Started
-Anyone, who wanted to use the project just have to download the entire repo and same to the local disk.
-to run open index.html file in any browser. 
+
+* Clone the Repo
+* replace  Placeholder Map API key with your API key in index.html page.
+
 
 ### Prerequisites
 Google Map API 'KEY'.
@@ -29,14 +31,7 @@ Any text editor(Atom, Bracket, Sublime recommended).
 Bracket 
 Browsers(Chrome,Safari,Firefox)
 
-<<<<<<< HEAD
-
 ### Authors
 Vishal Mane
 Jenis Lawrence
 Neil Gonsalvies
-
-
-
-=======
->>>>>>> d199559340425d349db483a276c6115e5700e380
