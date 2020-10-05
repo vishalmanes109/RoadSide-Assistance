@@ -10,8 +10,8 @@ RoadSide Assistant helps you to find nearest Mechanics, Petrol Pump on ONE CLICK
 
 
 ### Prerequisites
-Google Map API 'KEY'.
-Any text editor(Atom, Bracket, Sublime recommended).
+* Google Map API 'KEY'.
+* Any text editor(Atom, Bracket, Sublime recommended).
 
 ### Get Started
 
@@ -30,8 +30,8 @@ Any text editor(Atom, Bracket, Sublime recommended).
 <img src='./image/roadside_service.png'>
 
 ### Built With
-Bracket 
-Browsers(Chrome,Safari,Firefox)
+* Bracket 
+* Browsers(Chrome,Safari,Firefox)
 
 ### Authors
 * Vishal Mane
