@@ -8,15 +8,16 @@ RoadSide Assistant helps you to find nearest Mechanics, Petrol Pump on ONE CLICK
 
 <img src='./image/roadsidehome.png' >
 
+
+### Prerequisites
+Google Map API 'KEY'.
+Any text editor(Atom, Bracket, Sublime recommended).
+
 ### Get Started
 
 * Clone the Repo
 * replace  Placeholder Map API key with your API key in index.html page.
 
-
-### Prerequisites
-Google Map API 'KEY'.
-Any text editor(Atom, Bracket, Sublime recommended).
 
 ### Technology Stack
 * HTML5
@@ -27,11 +28,12 @@ Any text editor(Atom, Bracket, Sublime recommended).
 * Geolocation API
 
 <img src='./image/roadside_service.png'>
+
 ### Built With
 Bracket 
 Browsers(Chrome,Safari,Firefox)
 
 ### Authors
-Vishal Mane
-Jenis Lawrence
-Neil Gonsalvies
+* Vishal Mane
+* Jenis Lawrence
+* Neil Gonsalvies
